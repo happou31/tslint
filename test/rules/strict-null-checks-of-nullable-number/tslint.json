@@ -1,0 +1,5 @@
+{
+    "rules": {
+      "strict-null-checks-of-nullable-number": true
+    }
+}
